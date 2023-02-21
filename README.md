@@ -1,1 +1,1 @@
-# noughts_and_crosses
+# rock_paper_scissors
